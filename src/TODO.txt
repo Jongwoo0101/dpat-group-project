@@ -1,0 +1,2 @@
+test.py: 업비트 api 테스트
+get_coin_data.py: 24.09 ~ 12까지 비트코인의 시세, 거래량 수집하여 src/data에 저장
