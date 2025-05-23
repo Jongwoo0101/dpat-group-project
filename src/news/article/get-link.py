@@ -32,10 +32,10 @@ def get_date():
 
 
 
+
+
+
 get_date()
-
-
-
 
 def ypnews(diffMonth_day,date_list):
     date_list_count=0
