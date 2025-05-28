@@ -1,2 +1,6 @@
 pyupbit
 pandas
+matplotlib
+wordcloud
+collections
+re
