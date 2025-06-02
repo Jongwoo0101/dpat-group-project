@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("src/data/coin_data.csv")  # 파일명을 실제 경로에 맞게 사용하세요
+df = pd.read_csv("./data/coin_data.csv")  # 파일명을 실제 경로에 맞게 사용하세요
 
 # '캔들 기준 시각(UTC기준)'을 datetime으로 변환
 df['캔들 기준 시각(UTC기준)'] = pd.to_datetime(df['캔들 기준 시각(UTC기준)'])
