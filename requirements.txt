@@ -8,5 +8,5 @@ python-dotenv~=1.0.0
 feedparser~=6.0.11
 bs4~=0.0.1
 beautifulsoup4~=4.12.2
+soynlp~=0.0.493
 selenium~=4.32.0
-konlpy~=0.6.0
