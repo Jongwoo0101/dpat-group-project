@@ -16,3 +16,4 @@ filtered_df = filtered_df.sort_values(by='캔들 기준 시각(UTC기준)', asce
 
 # CSV로 저장
 filtered_df.to_csv("filtered_BTC_data_2024_Sep_Dec.csv", index=False)
+
