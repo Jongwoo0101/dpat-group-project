@@ -65,18 +65,18 @@
 
 | 날짜          | 시각화 이미지                 |
 |---------------|------------------------------|
-| 1월 8일       | ![1월 8일](src/news/output/1월%208일_bargraph.png) |
-| 1월 12일      | ![1월 12일](src/news/output/1월%2012일_bargraph.png) |
-| 2월 27일      | ![2월 27일](src/news/output/2월%2027일_bargraph.png) |
-| 2월 28일      | ![2월 28일](src/news/output/2월%2028일_bargraph.png) |
-| 3월 4일       | ![3월 4일](src/news/output/3월%204일_bargraph.png)   |
-| 3월 19일      | ![3월 19일](src/news/output/3월%2019일_bargraph.png) |
-| 3월 20일      | ![3월 20일](src/news/output/3월%2020일_bargraph.png) |
-| 5월 3일       | ![5월 3일](src/news/output/5월%203일_bargraph.png)   |
-| 5월 15일      | ![5월 15일](src/news/output/5월%2015일_bargraph.png) |
-| 5월 20일      | ![5월 20일](src/news/output/5월%2020일_bargraph.png) |
-| 7월 15일      | ![7월 15일](src/news/output/7월%2015일_bargraph.png) |
-| 8월 2일       | ![8월 2일](src/news/output/8월%202일_bargraph.png)   |
-| 8월 8일       | ![8월 8일](src/news/output/8월%208일_bargraph.png)   |
-| 11월 6일      | ![11월 6일](src/news/output/11월%206일_bargraph.png) |
-| 11월 11일     | ![11월 11일](src/news/output/11월%2011일_bargraph.png)|
+| 1월 8일       | ![1월 8일](src/news/images/date/01월%2008일top20키워드_막대그래프.png) |
+| 1월 12일      | ![1월 12일](src/news/images/date/01월%2012일top20키워드_막대그래프.png) |
+| 2월 27일      | ![2월 27일](src/news/images/date/02월%2027일top20키워드_막대그래프.png) |
+| 2월 28일      | ![2월 28일](src/news/images/date/02월%2028일top20키워드_막대그래프.png) |
+| 3월 4일       | ![3월 4일](src/news/images/date/03월%2004일top20키워드_막대그래프.png)   |
+| 3월 19일      | ![3월 19일](src/news/images/date/03월%2019일top20키워드_막대그래프.png) |
+| 3월 20일      | ![3월 20일](src/news/images/date/05월%2003일top20키워드_막대그래프.png) |
+| 5월 3일       | ![5월 3일](src/news/images/date/05월%2003일top20키워드_막대그래프.png)   |
+| 5월 15일      | ![5월 15일](src/news/images/date/05월%2015일top20키워드_막대그래프.png) |
+| 5월 20일      | ![5월 20일](src/news/images/date/05월%2020일top20키워드_막대그래프.png) |
+| 7월 15일      | ![7월 15일](src/news/images/date/07월%2015일top20키워드_막대그래프.png) |
+| 8월 2일       | ![8월 2일](src/news/images/date/08월%2002일top20키워드_막대그래프.png)   |
+| 8월 8일       | ![8월 8일](src/news/images/date/08월%2008일top20키워드_막대그래프.png)   |
+| 11월 6일      | ![11월 6일](src/news/images/date/11월%2006일top20키워드_막대그래프.png) |
+| 11월 11일     | ![11월 11일](src/news/images/date/11월%2011일top20키워드_막대그래프.png)|
